@@ -1,8 +1,1 @@
-Iris Flower Classification is a machine learning project used to predict the species of an iris flower based on its measurements.
-The model uses four features:
-Sepal length
-Sepal width
-Petal length
-Petal width
-It classifies the flower into Iris Setosa, Iris Versicolor, or Iris Virginica.
-The dataset is divided into training and testing data. A classification model is trained using the training data and then tested to check how accurately it can predict the flower species.
+
