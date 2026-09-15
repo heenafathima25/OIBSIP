@@ -1,0 +1,5 @@
+Advertising Sales Prediction is a machine learning project that predicts sales based on advertising expenditure on different channels 
+such as TV, Radio, and Newspaper.The project involves analysing the relationship between advertising spending and sales,
+creating visualisations, and training machine learning models such as Linear Regression to predict sales.
+The models are evaluated using MAE, RMSE, and R² score. 
+The project also identifies which advertising channel has the highest impact on sales
