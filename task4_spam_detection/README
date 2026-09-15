@@ -1,0 +1,4 @@
+Spam Detection is a machine learning project that classifies emails/messages into two categories: Spam and Not Spam (Ham).
+In this task, we use an email dataset containing the message text and a spam label. 
+The text data is cleaned and converted into numerical features so that a machine learning model can learn the difference between spam and 
+non-spam messages.The model is then trained and tested to predict whether a new email is spam or not spam.
