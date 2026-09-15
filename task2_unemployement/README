@@ -1,0 +1,16 @@
+Unemployment Analysis is a data analysis project that focuses on studying unemployment rates in different regions of India and understanding
+how unemployment changed over time. The main objective of this task is to use data analysis and visualization techniques to identify regional 
+and temporal trends, especially the impact of the COVID-19 pandemic on unemployment rates. 
+In this task, we use Python, pandas, matplotlib, seaborn, and Jupyter Notebook to work with the unemployment dataset. First, the dataset is loaded 
+and examined to understand its structure. We check the number of rows and columns, missing values, and data types, and convert the required data
+into suitable formats for analysis. 
+After preparing the data, Exploratory Data Analysis (EDA) is performed. We calculate the average unemployment rate for different regions and 
+analyse how unemployment rates change from month to month. These analyses help us understand which regions have higher or lower unemployment 
+and how unemployment varies with time. 
+We also create a time-series line chart to observe unemployment rates over time for at least three major states or regions. A bar chart is used 
+to identify the top 10 states with the highest average unemployment rates. These visualizations make it easier to compare unemployment levels 
+between different states and identify important patterns. 
+Another important part of the project is the correlation heatmap. It is used to study the relationship between the unemployment rate, 
+employment rate, and labour participation rate. This helps us understand how these different employment-related factors are related to one another.
+A major focus of this task is understanding the effect of COVID-19 on unemployment in India. By analysing unemployment data over time,
+we can examine changes during the pandemic period and compare trends across different regions.
