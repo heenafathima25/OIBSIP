@@ -1,0 +1,14 @@
+Car Price Prediction is a machine learning project that aims to predict the selling price of a car based on different features of the vehicle. 
+The main purpose of this project is to understand how factors such as the car’s brand, age, engine size, fuel type, transmission, mileage, condition,
+and model can affect its price.In this task, we worked with a car price dataset containing information about different cars. 
+The dataset included features such as Car ID, Brand, Year, Engine Size, Fuel Type, Transmission, Mileage, Condition, Price, and Model.
+First, the dataset was loaded and explored using Python and pandas. We checked the columns and data to understand what information was available.
+The data was then prepared for machine learning by handling the different types of values and converting the required information into a format
+that the model could understand.
+Next, we analysed the relationship between the car features and their prices. Data visualization was used to understand patterns in the dataset.
+Graphs helped us see how factors such as the year, mileage, engine size, and other characteristics can influence the price of a car.
+After preparing the data, a machine learning model was trained using the available car features. 
+The model learned patterns from the existing data and used those patterns to estimate the price of a car.
+The model's predictions were then compared with the actual prices to understand how well it performed.
+The project demonstrates how machine learning can be used in the automobile industry to estimate vehicle prices.
+Such a system can help sellers set reasonable prices and help buyers understand the expected value of a vehicle.
